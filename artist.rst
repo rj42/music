@@ -21,15 +21,6 @@ Groups
 ------
 
 #. 10cc
-   
-   - album
-   - album2
-   - album4
-   - album3
-   - album5
-   - album6
-   
-   
 #. 30 seconds to mars (?)
 #. 3 Doors Down (song Kryptonite)
 #. A-ha
@@ -56,7 +47,9 @@ Groups
 #. Beatles
 #. Beck
 #. Beth Hart
+
     - Bang Bang Boom Boom
+
 #. Billy Joel
 #. Billy Idol
 #. Billy Squier
