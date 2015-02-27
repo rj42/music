@@ -48,7 +48,7 @@ Groups
 #. Beck
 #. Beth Hart
 
-    - Bang Bang Boom Boom
+   - Bang Bang Boom Boom
 
 #. Billy Joel
 #. Billy Idol
